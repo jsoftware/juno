@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="666.66669"
+   height="376.25146"
+   viewBox="0 0 20.000001 11.287544"
+   fill="none"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="Edit / Add_Row"
+     transform="matrix(1,0,0,-1,-2,18)">
+    <path
+       style="color:#000000;fill:#8f9894;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       d="m 13,10 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 h 6 c 0.564193,0 1,0.435807 1,1 v 2 c 0,0.564193 -0.435807,1 -1,1 H 5 C 4.435852,16 4,15.564175 4,15 V 14 A 1,1 0 0 0 3,13 1,1 0 0 0 2,14 v 1 c 0,1.645023 1.3550102,3 3,3 h 14 c 1.645005,0 3,-1.354995 3,-3 v -2 c 0,-1.645005 -1.354995,-3 -3,-3 z"
+       id="path1" />
+    <path
+       style="color:#000000;fill:#539100;fill-opacity:1;stroke-width:0.791575;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       d="m 7.2282461,6.7124556 a 0.80372804,0.77960521 0 0 0 -0.803728,0.779606 V 9.0512721 H 4.8170609 a 0.80372804,0.77960521 0 0 0 -0.803728,0.7796051 0.80372804,0.77960521 0 0 0 0.803728,0.7796048 h 1.6074572 v 1.55921 a 0.80372804,0.77960521 0 0 0 0.803728,0.779606 0.80372804,0.77960521 0 0 0 0.803728,-0.779606 v -1.55921 h 1.607456 A 0.80372804,0.77960521 0 0 0 10.443157,9.8308772 0.80372804,0.77960521 0 0 0 9.6394301,9.0512721 H 8.0319741 V 7.4920616 a 0.80372804,0.77960521 0 0 0 -0.803728,-0.779606 z"
+       id="Vector-4" />
+  </g>
+</svg>
