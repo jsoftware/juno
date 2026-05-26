@@ -1,4 +1,4 @@
 :HL["/juno/app/_next/static/chunks/0t1ld8__omta8.css","style"]
 :HL["/juno/app/_next/static/chunks/0~yz591.yvq0h.css","style"]
 :HL["/juno/app/_next/static/chunks/04za3hu5nilvo.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"N8wm7x394guxno96Gxyxs"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"dXplPgl3iAAZKbRq5nq5I"}
